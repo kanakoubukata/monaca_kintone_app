@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "mobi.monaca.plugins.Monaca"
+        "mobi.monaca.plugins.Monaca",
+        "mobi.monaca.plugins.BarcodeScanner@1.0.3"
     ],
     "framework_version": "3.5",
     "xcode_version": "7",
